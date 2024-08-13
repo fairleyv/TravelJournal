@@ -2,6 +2,10 @@ import React from "react";
 
 export default function Navbar () {
     return (
-        <h1>This is a Navbar</h1>
+        <div>
+            <nav>
+                <h1>my travel journal.</h1>
+            </nav>
+        </div>
     )
 }
