@@ -1,7 +1,13 @@
 import React from "react";
+import worldIcon from "../src/assets/worldIcon.png"
 
 export default function Navbar () {
     return (
-        <h1>This is a Navbar</h1>
+        <div>
+            <nav>
+                <img className="navbarWorldIcon" src={worldIcon} alt="An icon of the earth"/>
+                <h1 className="navbarTitle">my travel journal.</h1>
+            </nav>
+        </div>
     )
 }
