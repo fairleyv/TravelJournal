@@ -5,7 +5,7 @@ export default function Navbar () {
     return (
         <div>
             <nav>
-                <img className="navbarWorldIcon" src={worldIcon}/>
+                <img className="navbarWorldIcon" src={worldIcon} alt="An icon of the earth"/>
                 <h1 className="navbarTitle">my travel journal.</h1>
             </nav>
         </div>
