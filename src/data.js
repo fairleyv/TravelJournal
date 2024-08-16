@@ -28,5 +28,16 @@ export default [
         endDate: "8 Jun, 2021",
         description: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings",
         imageUrl: "https://scrimba.com/links/travel-journal-australia-image-url"
+    },
+    {
+        id: 4,
+        title: "The Venetian",
+        location: "Las Vegas",
+        googleMapsUrl: "https://maps.app.goo.gl/tcLhsf9XkkL7KdCJ9",
+        startDate: "10 Feb, 2023",
+        endDate: "17 Feb, 2023",
+        description: "The Venetian is a 5-star hotel located on the strip of Las Vegas. A popular vacation destination, the hotel serves as both a source for entertainment, shopping, and relaxation.",
+        imageUrl: "../src/assets/venetian.jpg"
     }
+    
 ]
