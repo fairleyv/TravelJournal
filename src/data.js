@@ -37,7 +37,7 @@ export default [
         startDate: "10 Feb, 2023",
         endDate: "17 Feb, 2023",
         description: "The Venetian is a 5-star hotel located on the strip of Las Vegas. A popular vacation destination, the hotel serves as both a source for entertainment, shopping, and relaxation.",
-        imageUrl: "../src/assets/venetian.jpg"
+        imageUrl: "https://www.venetianlasvegas.com/adobe/dynamicmedia/deliver/dm-aid--b5a45d28-519a-4fb1-831b-264b798e3cdd/venetian-palazzo-exterior-1925x1110.jpg?quality=100&width=1920&preferwebp=true"
     }
     
 ]
