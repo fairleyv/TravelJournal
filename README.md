@@ -32,6 +32,8 @@ No steps necessary you can find this project at the following URL: https://trave
 
 You can view the different locations and click on the google link to find the location on google maps.  
 
+<img width="944" alt="travel-journal-screenshot" src="https://github.com/user-attachments/assets/936b1587-cd24-472e-a1fd-0afe735565af">
+
 ## Credits 
 
 Bob Ziroll's React course on scrimba provided the idea along with a figma file for the design aspects of the project.  
