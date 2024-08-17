@@ -3,6 +3,7 @@ import locationIcon from "../src/assets/locationIcon.png";
 
 export default function Card (props) {
     return (
+        <>
         <card>
             <img className="cardImg" src={props.imageUrl}/>
             <div className="cardInfo">
@@ -16,5 +17,7 @@ export default function Card (props) {
                 <p className="locationDescription">{props.description}</p>
             </div>
         </card>
+            <hr/>
+        </>
     )
 }
